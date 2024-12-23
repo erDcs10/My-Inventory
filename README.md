@@ -12,7 +12,6 @@ A Yii2-based web application designed to help managing inventory.
 ## Built With  
 ![Yii2](https://img.shields.io/badge/framework-Yii2-blue?logo=yii)  
 ![PHP](https://img.shields.io/badge/language-PHP-8892be?logo=php&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow?logo=javascript&logoColor=yellow)
 ![MySQL](https://img.shields.io/badge/database-MySQL-00758f?logo=mysql&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/environtment-XAMPP-orange?logo=xampp)  
 ![Composer](https://img.shields.io/badge/dependencies-Composer-blue?logo=composer)
