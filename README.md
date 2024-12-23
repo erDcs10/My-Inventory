@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/badge/version-1.0.0-blue) ![Maintenance](https://img.shields.io/badge/maintenance-active-brightgreen)  
+![Version](https://img.shields.io/badge/version-0.1.0-blue) ![Maintenance](https://img.shields.io/badge/maintenance-active-brightgreen)  
 
 # My Inventory 
 
