@@ -18,9 +18,9 @@ A Yii2-based web application designed to help managing inventory.
 ![Composer](https://img.shields.io/badge/dependencies-Composer-blue?logo=composer)
 
 ## Documentation  
-For detailed documentation, refer to the file linked below (written in Indonesian):
+For detailed documentation, go to the link below
 
-[![Static Badge](https://img.shields.io/badge/View_Document-1298ff)](./document/project_documentation.docx) 
+[![Static Badge](https://img.shields.io/badge/View_Document-1298ff)](./documentation) 
 
 ## Contributors  
 ![Contributors](https://img.shields.io/github/contributors/erDcs10/My-Inventory)  
