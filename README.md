@@ -23,3 +23,4 @@ For detailed documentation, refer to the file linked below (written in Indonesia
 [![Static Badge](https://img.shields.io/badge/View_Document-1298ff)](./document/project_documentation.docx) 
 
 ## Contributors  
+![Contributors](https://img.shields.io/github/contributors/erDcs10/My-Inventory)  
