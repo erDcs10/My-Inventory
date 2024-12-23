@@ -23,7 +23,3 @@ For detailed documentation, refer to the file linked below (written in Indonesia
 [![Static Badge](https://img.shields.io/badge/View_Document-1298ff)](./document/project_documentation.docx) 
 
 ## Contributors  
-![Contributors](https://img.shields.io/github/contributors/dzadaafa/Beauty-Solution-)  
-[![@azzaauliyaul](https://img.shields.io/badge/GitHub-azzaauliyaul-blue?logo=github&style=flat-square)](https://github.com/azzaauliyaul)  
-[![@fathursn21](https://img.shields.io/badge/GitHub-fathursn21-9156f0?logo=github&style=flat-square)](https://github.com/fathursn21)  
-[![@dzadaafa](https://img.shields.io/badge/GitHub-dzadaafa-9156f0?style=plastic&logo=github&style=flat-square)](https://github.com/dzadaafa)
