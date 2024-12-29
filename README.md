@@ -25,3 +25,4 @@ For detailed documentation, go to the link below
 ![Contributors](https://img.shields.io/github/contributors/erDcs10/My-Inventory)  
 [![@erDcs10](https://img.shields.io/badge/GitHub-erDcs10-blue?logo=github&style=flat-square)](https://github.com/erDcs10)  
 [![@ArDS1401](https://img.shields.io/badge/GitHub-ArDS1401-blue?logo=github&style=flat-square)](https://github.com/ArDS1401)  
+[![@Primaaaaa24](https://img.shields.io/badge/GitHub-Primaaaaa24-blue?logo=github&style=flat-square)](https://github.com/Primaaaaa24)  
